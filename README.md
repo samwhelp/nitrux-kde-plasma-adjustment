@@ -38,8 +38,8 @@
 
 | Script |
 | ------ |
-| [Nitrux Kde Plasma Config](https://github.com/samwhelp/nitrux-kde-plasma-adjustment/tree/main/prototype/main/kde-plasma-config/part/Main) |
-| [Tool Config](https://github.com/samwhelp/nitrux-adjustment/tree/main/prototype/main/tool-config/part) |
+| [Nitrux Kde Plasma Config](https://github.com/samwhelp/nitrux-kde-plasma-adjustment/tree/main/prototype/main/nitrux-config/part/Main) |
+| [Tool Config](https://github.com/samwhelp/nitrux-adjustment/tree/main/prototype/main) |
 
 
 
